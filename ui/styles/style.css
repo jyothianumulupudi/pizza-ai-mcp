@@ -1,0 +1,48 @@
+body {
+    background-color: #f8f9fa;
+    font-family: "Segoe UI", sans-serif;
+}
+
+/* Main Card */
+.main-card {
+    background-color: #ffffff;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0px 4px 12px rgba(0,0,0,0.1);
+    margin-top: 20px;
+}
+
+/* Title */
+.title {
+    text-align: center;
+    color: #d35400;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.subtitle {
+    text-align: center;
+    color: #555;
+    margin-bottom: 25px;
+}
+
+/* Labels */
+.label {
+    font-weight: 600;
+    margin-top: 15px;
+}
+
+/* Success Box */
+.success-box {
+    background-color: #eafaf1;
+    padding: 15px;
+    border-radius: 10px;
+    margin-top: 20px;
+    border-left: 6px solid #2ecc71;
+}
+
+.price {
+    font-size: 22px;
+    font-weight: bold;
+    color: #27ae60;
+}
